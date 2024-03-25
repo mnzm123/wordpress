@@ -1,0 +1,361 @@
+0000.001 (0) Opened log file at time: Mon, 25 Mar 2024 03:33:50 +0000 on http://localhost/blog/wordpress
+0000.034 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.10 WP: 6.4.3 PHP: 8.1.0 (apache2handler, Windows NT DESKTOP-KH691UL 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.22-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/8.1.0 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 37.5M | 38M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.067 (0) Free space on disk containing Updraft's temporary directory: 33106.4 MB
+0000.113 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.145 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.488 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1710731518, seconds_ago=606112)
+0000.683 (0) Set semaphore last lock (fd) time to 2024-03-25 03:33:50
+0000.710 (0) Semaphore lock (fd) complete
+0000.811 (0) Backup run: resumption=0, nonce=ad748c330cc3, file_nonce=ad748c330cc3 begun at=1711337630 (1s ago), job type=backup
+0000.910 (0) Scheduling a resumption (1) after 300 seconds (1711337931) in case this run gets aborted
+0001.040 (0) Checking if we have a zip executable available
+0001.110 (0) Creation of backups of directories: beginning
+0001.256 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0009.735 (0) Total entities for the zip file: 840 directories, 4740 files (0 skipped as non-modified), 92.8 MB
+0009.798 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0010.158 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 100 files added (on-disk size: 139.9 KB)
+0010.531 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 200 files added (on-disk size: 139.9 KB)
+0010.668 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 300 files added (on-disk size: 139.9 KB)
+0010.807 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 400 files added (on-disk size: 139.9 KB)
+0010.891 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 4740 files batched, 454 (455) added so far); re-opening (prior size: 139.9 KB)
+0033.881 (0) A useful amount of data was added after this amount of zip processing: 24.2 s (normalised: 24.1 s, rate: 1062.9 KB/s)
+0034.009 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 500 files added (on-disk size: 5095.4 KB)
+0034.199 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 600 files added (on-disk size: 5095.4 KB)
+0034.325 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 700 files added (on-disk size: 5095.4 KB)
+0034.456 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 800 files added (on-disk size: 5095.4 KB)
+0034.589 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 900 files added (on-disk size: 5095.4 KB)
+0034.706 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1000 files added (on-disk size: 5095.4 KB)
+0034.814 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1100 files added (on-disk size: 5095.4 KB)
+0034.919 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1200 files added (on-disk size: 5095.4 KB)
+0035.018 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1300 files added (on-disk size: 5095.4 KB)
+0035.119 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1400 files added (on-disk size: 5095.4 KB)
+0035.221 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.5 MB, 4740 files batched, 1001 (1456) added so far); re-opening (prior size: 5095.4 KB)
+0067.278 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1500 files added (on-disk size: 10163.5 KB)
+0067.400 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1600 files added (on-disk size: 10163.5 KB)
+0067.535 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1700 files added (on-disk size: 10163.5 KB)
+0067.653 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1800 files added (on-disk size: 10163.5 KB)
+0067.769 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 1900 files added (on-disk size: 10163.5 KB)
+0067.893 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2000 files added (on-disk size: 10163.5 KB)
+0068.002 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2100 files added (on-disk size: 10163.5 KB)
+0068.113 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2200 files added (on-disk size: 10163.5 KB)
+0068.226 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2300 files added (on-disk size: 10163.5 KB)
+0068.337 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2400 files added (on-disk size: 10163.5 KB)
+0068.470 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.9 MB, 4740 files batched, 1001 (2457) added so far); re-opening (prior size: 10163.5 KB)
+0093.590 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2500 files added (on-disk size: 15211.6 KB)
+0093.698 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2600 files added (on-disk size: 15211.6 KB)
+0093.826 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2700 files added (on-disk size: 15211.6 KB)
+0093.961 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2800 files added (on-disk size: 15211.6 KB)
+0094.074 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 2900 files added (on-disk size: 15211.6 KB)
+0094.189 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3000 files added (on-disk size: 15211.6 KB)
+0094.296 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3100 files added (on-disk size: 15211.6 KB)
+0094.416 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3200 files added (on-disk size: 15211.6 KB)
+0094.537 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3300 files added (on-disk size: 15211.6 KB)
+0094.660 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3400 files added (on-disk size: 15211.6 KB)
+0094.762 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.3 MB, 4740 files batched, 1001 (3458) added so far); re-opening (prior size: 15211.6 KB)
+0165.066 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3500 files added (on-disk size: 23858.4 KB)
+0165.264 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3600 files added (on-disk size: 23858.4 KB)
+0165.490 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3700 files added (on-disk size: 23858.4 KB)
+0165.756 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3800 files added (on-disk size: 23858.4 KB)
+0166.026 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 3900 files added (on-disk size: 23858.4 KB)
+0166.242 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 4000 files added (on-disk size: 23858.4 KB)
+0166.548 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 4100 files added (on-disk size: 23858.4 KB)
+0166.735 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 4200 files added (on-disk size: 23858.4 KB)
+0166.954 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 4300 files added (on-disk size: 23858.4 KB)
+0167.267 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 4400 files added (on-disk size: 23858.4 KB)
+0167.478 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.7 MB, 4740 files batched, 1001 (4459) added so far); re-opening (prior size: 23858.4 KB)
+0212.094 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 4500 files added (on-disk size: 29369.6 KB)
+0212.256 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 4600 files added (on-disk size: 29369.6 KB)
+0212.435 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.tmp: 4700 files added (on-disk size: 29369.6 KB)
+0215.062 (0) Creating zip file manifest (backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.list-temp.tmp)
+0215.297 (0) Successfully created zip file manifest (size: 358599)
+0217.230 (0) Created plugins zip (0) - 29747.4 KB in 215.8 s (137.9 KB/s) (sha1: 4dfa514ec9e05fbe690b130950483438840bc3de, sha256: fcd8a0ad4cddbb8c234042f5763f4124e091d97342fe11f37ea082b30e5a8942)
+0217.641 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0217.693 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-f73a97c1583779e98e3748cfb47f3d38)
+0221.230 (0) Google Drive: there appears to be more than one folder: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD, 19iit3RBDeNRWSzveO-Kk30MJmdWuoWlR
+0222.377 (0) Google Drive: quota usage: used=54.1 MB, total=15360 MB, available=15305.9 MB
+0222.563 (0) Google Drive: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip: Attempting to upload to Google Drive (into folder id: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD)
+0226.176 (0) Googledrive chunked upload: 3.4 % uploaded (1048576)
+0228.587 (0) Googledrive chunked upload: 6.9 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 40.9 / 44)
+0231.110 (0) Googledrive chunked upload: 13.8 % uploaded (4194304 - increasing chunk size to 4096 KB - memory usage: 40.9 / 44)
+0236.599 (0) Googledrive chunked upload: 27.5 % uploaded (8388608)
+0242.232 (0) Googledrive chunked upload: 41.3 % uploaded (12582912)
+0246.122 (0) Googledrive chunked upload: 55.1 % uploaded (16777216)
+0250.700 (0) Googledrive chunked upload: 68.8 % uploaded (20971520)
+0254.912 (0) Googledrive chunked upload: 82.6 % uploaded (25165824)
+0260.002 (0) The scheduled resumption is within 45 seconds - will reschedule
+0260.068 (0) Rescheduling resumption 1: moving to 345 seconds from now (1711338235)
+0260.190 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0260.223 (0) Googledrive chunked upload: 96.4 % uploaded (29360128)
+0263.769 (0) Googledrive chunked upload: 100 % uploaded (29360128)
+0263.890 (0) Google Drive: OK: Archive backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip uploaded in 40.95 seconds
+0263.923 (0) Recording as successfully uploaded: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip
+0264.051 (0) Deleting local file: backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip: OK
+0264.190 (0) Beginning creation of dump of themes (split every: 400 MB)
+0266.822 (0) Total entities for the zip file: 154 directories, 1148 files (0 skipped as non-modified), 40.3 MB
+0267.009 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0267.246 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 100 files added (on-disk size: 24.4 KB)
+0267.399 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 200 files added (on-disk size: 24.4 KB)
+0267.566 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 300 files added (on-disk size: 24.4 KB)
+0267.705 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 400 files added (on-disk size: 24.4 KB)
+0267.881 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 500 files added (on-disk size: 24.4 KB)
+0268.046 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 600 files added (on-disk size: 24.4 KB)
+0268.184 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 1148 files batched, 674 (675) added so far); re-opening (prior size: 24.4 KB)
+0307.172 (0) A useful amount of data was added after this amount of zip processing: 40.5 s (normalised: 40.3 s, rate: 635.2 KB/s)
+0307.249 (0) Performance is good - will increase the amount of data we attempt to batch (time=40.454602956772, normalised_time=40.301705103772, max_time=307.21532797813, data points known=1, old_max_bytes=26214400, new_max_bytes=119897639)
+0307.400 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 700 files added (on-disk size: 15184.1 KB)
+0307.544 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 800 files added (on-disk size: 15184.1 KB)
+0307.738 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 900 files added (on-disk size: 15184.1 KB)
+0307.943 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 1000 files added (on-disk size: 15184.1 KB)
+0308.165 (0) Zip: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.tmp: 1100 files added (on-disk size: 15184.1 KB)
+0333.541 (0) The time we have been running (333.2) is approaching the resumption interval (345) - increasing resumption interval to 364
+0333.796 (0) Creating zip file manifest (backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.list-temp.tmp)
+0333.858 (0) Successfully created zip file manifest (size: 78498)
+0335.670 (0) Created themes zip (0) - 28572.5 KB in 71.3 s (400.5 KB/s) (sha1: 5bc893cb8923ff3cd9612d41379d0abdb0c67b78, sha256: 585beb3e398ff5e89fd2022119f41173ed2864d969f539df05b6d1421c7780ec)
+0336.037 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0336.153 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-f73a97c1583779e98e3748cfb47f3d38)
+0336.286 (0) Google Drive: there appears to be more than one folder: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD, 19iit3RBDeNRWSzveO-Kk30MJmdWuoWlR
+0337.344 (0) Google Drive: quota usage: used=83.2 MB, total=15360 MB, available=15276.8 MB
+0337.375 (0) Google Drive: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip: Attempting to upload to Google Drive (into folder id: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD)
+0340.641 (0) The time we have been running (340.5) is approaching the resumption interval (364) - increasing resumption interval to 371
+0340.719 (0) Googledrive chunked upload: 3.6 % uploaded (1048576)
+0343.163 (0) The time we have been running (343) is approaching the resumption interval (371) - increasing resumption interval to 374
+0343.253 (0) Googledrive chunked upload: 7.2 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 40.4 / 44)
+0346.774 (0) The time we have been running (346.7) is approaching the resumption interval (374) - increasing resumption interval to 377
+0346.842 (0) Googledrive chunked upload: 14.3 % uploaded (4194304)
+0352.165 (0) The time we have been running (352.1) is approaching the resumption interval (377) - increasing resumption interval to 383
+0352.232 (0) Googledrive chunked upload: 21.5 % uploaded (6291456)
+0354.965 (0) The time we have been running (354.9) is approaching the resumption interval (383) - increasing resumption interval to 385
+0355.032 (0) Googledrive chunked upload: 28.7 % uploaded (8388608)
+0358.722 (0) The time we have been running (358.6) is approaching the resumption interval (385) - increasing resumption interval to 389
+0358.831 (0) Googledrive chunked upload: 35.8 % uploaded (10485760)
+0361.332 (0) The time we have been running (361.2) is approaching the resumption interval (389) - increasing resumption interval to 392
+0361.377 (0) Googledrive chunked upload: 43 % uploaded (12582912 - increasing chunk size to 4096 KB - memory usage: 40.4 / 44)
+0365.943 (0) The time we have been running (365.8) is approaching the resumption interval (392) - increasing resumption interval to 396
+0366.021 (0) Googledrive chunked upload: 57.3 % uploaded (16777216)
+0374.822 (0) The time we have been running (374.7) is approaching the resumption interval (396) - increasing resumption interval to 405
+0374.889 (0) Googledrive chunked upload: 71.7 % uploaded (20971520)
+0379.790 (0) The time we have been running (379.5) is approaching the resumption interval (405) - increasing resumption interval to 410
+0379.967 (0) Googledrive chunked upload: 86 % uploaded (25165824)
+0384.800 (0) The time we have been running (384.7) is approaching the resumption interval (410) - increasing resumption interval to 415
+0384.867 (0) Googledrive chunked upload: 100 % uploaded (25165824)
+0385.012 (0) Google Drive: OK: Archive backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip uploaded in 47.58 seconds
+0385.045 (0) Recording as successfully uploaded: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip
+0385.229 (0) Deleting local file: backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip: OK
+0385.367 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0385.401 (0) Looking for candidates to backup in: C:\xampp\htdocs\blog\wordpress/wp-content/uploads
+0385.434 (0) finding files: 2023: adding to list (1)
+0385.467 (0) finding files: 2024: adding to list (2)
+0385.500 (0) finding files: dynamic-mobmenu.css: adding to list (3)
+0385.534 (0) finding files: rmp-menu: adding to list (4)
+0385.567 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0385.657 (0) Total entities for the zip file: 7 directories, 7 files (0 skipped as non-modified), 0.1 MB
+0386.234 (0) The time we have been running (386) is approaching the resumption interval (415) - increasing resumption interval to 416
+0386.369 (0) Creating zip file manifest (backup_2024-03-25-0333_websiteblog_ad748c330cc3-uploads.zip.list-temp.tmp)
+0386.402 (0) Successfully created zip file manifest (size: 315)
+0386.556 (0) Created uploads zip (0) - 52.6 KB in 0.9 s (57.3 KB/s) (sha1: 5dace17aaa88c0b018fa0bc623d2126247eccafc, sha256: 84dc10671b9d1146f202508c67bda24bd16d939a5bf7797286d7a3fbaa2db63a)
+0386.657 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0386.690 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-f73a97c1583779e98e3748cfb47f3d38)
+0386.746 (0) Google Drive: there appears to be more than one folder: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD, 19iit3RBDeNRWSzveO-Kk30MJmdWuoWlR
+0387.491 (0) Google Drive: quota usage: used=111.1 MB, total=15360 MB, available=15248.9 MB
+0387.557 (0) Google Drive: backup_2024-03-25-0333_websiteblog_ad748c330cc3-uploads.zip: Attempting to upload to Google Drive (into folder id: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD)
+0390.301 (0) The time we have been running (390.2) is approaching the resumption interval (416) - increasing resumption interval to 421
+0390.446 (0) Googledrive chunked upload: 100 % uploaded
+0390.568 (0) Google Drive: OK: Archive backup_2024-03-25-0333_websiteblog_ad748c330cc3-uploads.zip uploaded in 2.97 seconds
+0390.679 (0) Recording as successfully uploaded: backup_2024-03-25-0333_websiteblog_ad748c330cc3-uploads.zip
+0390.746 (0) Deleting local file: backup_2024-03-25-0333_websiteblog_ad748c330cc3-uploads.zip: OK
+0390.890 (0) Beginning backup of other directories found in the content directory (index: 0)
+0390.929 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0390.957 (0) Looking for candidates to backup in: C:\xampp\htdocs\blog\wordpress/wp-content
+0390.990 (0) finding files: index.php: adding to list (1)
+0391.024 (0) finding files: index.php-old: adding to list (2)
+0391.056 (0) finding files: plugins: skipping: this is the plugins directory
+0391.091 (0) finding files: plugins-old: adding to list (3)
+0391.134 (0) finding files: themes: skipping: this is the themes directory
+0391.168 (0) finding files: themes-old: adding to list (4)
+0391.201 (0) finding files: updraft: skipping: this is the updraft directory
+0391.235 (0) finding files: upgrade: skipping: excluded by options
+0391.268 (0) finding files: uploads: skipping: this is the uploads directory
+0391.318 (0) finding files: uploads-old: adding to list (5)
+0391.396 (0) Total entities for the zip file: 3 directories, 2 files (0 skipped as non-modified), 0 MB
+0391.613 (0) The time we have been running (391.5) is approaching the resumption interval (421) - increasing resumption interval to 422
+0391.781 (0) Creating zip file manifest (backup_2024-03-25-0333_websiteblog_ad748c330cc3-others.zip.list-temp.tmp)
+0391.814 (0) Successfully created zip file manifest (size: 64)
+0391.972 (0) Created others zip (0) - 0.6 KB in 0.6 s (1 KB/s) (sha1: d707a9e8ff694bd99000ae95681c12fa84510935, sha256: c6f02efc8de1f943eac1072738e924cdeecd16c1804c462a4e5e82b0a0474e56)
+0392.067 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0392.124 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-f73a97c1583779e98e3748cfb47f3d38)
+0392.157 (0) Google Drive: there appears to be more than one folder: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD, 19iit3RBDeNRWSzveO-Kk30MJmdWuoWlR
+0393.021 (0) Google Drive: quota usage: used=111.1 MB, total=15360 MB, available=15248.9 MB
+0393.135 (0) Google Drive: backup_2024-03-25-0333_websiteblog_ad748c330cc3-others.zip: Attempting to upload to Google Drive (into folder id: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD)
+0395.412 (0) The time we have been running (395.3) is approaching the resumption interval (422) - increasing resumption interval to 426
+0395.609 (0) Googledrive chunked upload: 100 % uploaded
+0395.846 (0) Google Drive: OK: Archive backup_2024-03-25-0333_websiteblog_ad748c330cc3-others.zip uploaded in 2.68 seconds
+0395.913 (0) Recording as successfully uploaded: backup_2024-03-25-0333_websiteblog_ad748c330cc3-others.zip
+0396.089 (0) Deleting local file: backup_2024-03-25-0333_websiteblog_ad748c330cc3-others.zip: OK
+0396.591 (0) Saving backup status to database (elements: 8)
+0396.832 (0) Beginning creation of database dump (WordPress DB)
+0396.970 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0397.601 (0) Table wp_options: Total expected rows (via COUNT): 243
+0397.658 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0397.899 (0) Table wp_options: Rows added in this batch (next record: 833): 239 (uncompressed bytes in this segment=211863) in 0.53 seconds
+0398.180 (0) The time we have been running (398) is approaching the resumption interval (426) - increasing resumption interval to 429
+0398.281 (0) Table wp_options: finishing file(s) (2, 38.5 KB)
+0398.374 (0) Table wp_users: Total expected rows (via COUNT): 1
+0398.424 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0398.515 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1347) in 0.17 seconds
+0398.614 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0398.758 (0) Table wp_usermeta: Total expected rows (via COUNT): 27
+0398.791 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0399.015 (0) Table wp_usermeta: Rows added in this batch (next record: 28): 27 (uncompressed bytes in this segment=3639) in 0.33 seconds
+0399.224 (0) The time we have been running (399.1) is approaching the resumption interval (429) - increasing resumption interval to 430
+0399.325 (0) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0399.512 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0399.571 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.18 seconds
+0399.705 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0399.813 (0) Table wp_comments: Total expected rows (via COUNT): 2
+0399.846 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0400.032 (0) Table wp_comments: Rows added in this batch (next record: 4): 2 (uncompressed bytes in this segment=2326) in 0.26 seconds
+0400.394 (0) The time we have been running (400.2) is approaching the resumption interval (430) - increasing resumption interval to 431
+0400.508 (0) Table wp_comments: finishing file(s) (2, 0.9 KB)
+0400.725 (0) Table wp_links: Total expected rows (via COUNT): 0
+0400.781 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.08 seconds
+0400.892 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0401.103 (0) Table wp_postmeta: Total expected rows (via COUNT): 154
+0401.124 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0401.184 (0) Table wp_postmeta: Rows added in this batch (next record: 244): 154 (uncompressed bytes in this segment=23977) in 0.19 seconds
+0401.369 (0) The time we have been running (401.3) is approaching the resumption interval (431) - increasing resumption interval to 432
+0401.484 (0) Table wp_postmeta: finishing file(s) (2, 5 KB)
+0401.681 (0) Table wp_posts: Total expected rows (via COUNT): 65
+0401.703 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0401.787 (0) Table wp_posts: Rows added in this batch (next record: 95): 65 (uncompressed bytes in this segment=45878) in 0.20 seconds
+0401.915 (0) Table wp_posts: finishing file(s) (2, 6.6 KB)
+0402.002 (0) Table wp_term_relationships: Total expected rows (approximate): 15
+0402.096 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 15 (uncompressed bytes in this segment=874) in 0.11 seconds
+0402.413 (0) The time we have been running (402.3) is approaching the resumption interval (432) - increasing resumption interval to 433
+0402.493 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0402.690 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 8
+0402.713 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0402.792 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1128) in 0.22 seconds
+0403.016 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0403.235 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0403.326 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.19 seconds
+0403.725 (0) The time we have been running (403.6) is approaching the resumption interval (433) - increasing resumption interval to 434
+0403.870 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0403.970 (0) Table wp_terms: Total expected rows (via COUNT): 8
+0404.003 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0404.072 (0) Table wp_terms: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=909) in 0.13 seconds
+0405.651 (0) The time we have been running (404.1) is approaching the resumption interval (434) - increasing resumption interval to 435
+0408.008 (0) The time we have been running (407.8) is approaching the resumption interval (435) - increasing resumption interval to 438
+0408.176 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0408.309 (0) Table wp_wps_st_options: Total expected rows (via COUNT): 1
+0408.347 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0408.382 (0) Table wp_wps_st_options: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1415) in 0.10 seconds
+0408.480 (0) The time we have been running (408.4) is approaching the resumption interval (438) - increasing resumption interval to 439
+0408.637 (0) Table wp_wps_st_options: finishing file(s) (2, 0.6 KB)
+0408.774 (0) Table wp_wps_statistic: Total expected rows (approximate): 6
+0408.996 (0) Table wp_wps_statistic: Rows added in this batch (next record: 1000): 6 (uncompressed bytes in this segment=759) in 0.24 seconds
+0409.170 (0) The time we have been running (409) is approaching the resumption interval (439) - increasing resumption interval to 440
+0409.270 (0) Table wp_wps_statistic: finishing file(s) (2, 0.4 KB)
+0409.303 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\blog\wordpress/wp-content/updraft/backup_2024-03-25-0333_websiteblog_ad748c330cc3-db.gz (line 1976, C:\xampp\htdocs\blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0409.339 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_options.table.tmpr834.gz (1/14/fopen): adding to final database dump
+0409.451 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_options.table.gz (2/14/fopen): adding to final database dump
+0409.589 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_users.table.tmpr2.gz (3/14/fopen): adding to final database dump
+0409.670 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_users.table.gz (4/14/fopen): adding to final database dump
+0409.703 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_usermeta.table.tmpr29.gz (5/14/fopen): adding to final database dump
+0409.737 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_usermeta.table.gz (6/14/fopen): adding to final database dump
+0409.781 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_commentmeta.table.tmpr0.gz (7/14/fopen): adding to final database dump
+0409.815 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_commentmeta.table.gz (8/14/fopen): adding to final database dump
+0409.881 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_comments.table.tmpr5.gz (9/14/fopen): adding to final database dump
+0409.914 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_comments.table.gz (10/14/fopen): adding to final database dump
+0409.948 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_links.table.tmpr0.gz (11/14/fopen): adding to final database dump
+0410.003 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_links.table.gz (12/14/fopen): adding to final database dump
+0410.082 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_postmeta.table.tmpr245.gz (13/14/fopen): adding to final database dump
+0410.115 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_postmeta.table.gz (14/14/fopen): adding to final database dump
+0410.148 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_posts.table.tmpr96.gz (15/14/fopen): adding to final database dump
+0410.182 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_posts.table.gz (16/14/fopen): adding to final database dump
+0410.215 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_term_relationships.table.tmpr100001.gz (17/14/fopen): adding to final database dump
+0410.248 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_term_relationships.table.gz (18/14/fopen): adding to final database dump
+0410.282 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_term_taxonomy.table.tmpr9.gz (19/14/fopen): adding to final database dump
+0410.326 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_term_taxonomy.table.gz (20/14/fopen): adding to final database dump
+0410.359 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_termmeta.table.tmpr0.gz (21/14/fopen): adding to final database dump
+0410.392 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_termmeta.table.gz (22/14/fopen): adding to final database dump
+0410.426 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_terms.table.tmpr9.gz (23/14/fopen): adding to final database dump
+0410.459 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_terms.table.gz (24/14/fopen): adding to final database dump
+0410.493 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_wps_st_options.table.tmpr2.gz (25/14/fopen): adding to final database dump
+0410.526 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_wps_st_options.table.gz (26/14/fopen): adding to final database dump
+0410.559 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_wps_statistic.table.tmpr1001.gz (27/14/fopen): adding to final database dump
+0410.592 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db-table-wp_wps_statistic.table.gz (28/14/fopen): adding to final database dump
+0410.982 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db.gz: finished writing out complete database file (57 KB)
+0411.747 (0) Total database tables backed up: 14 (backup_2024-03-25-0333_websiteblog_ad748c330cc3-db.gz, size: 58510, sha1: c407218411d142fa26245ef35ec24fc982f55baa, sha256: e3948af2f189dd02f6cce71045909f4f0d933a286f29c75c7996ceaf69f38e8d)
+0411.947 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip: plugins: This file has already been successfully uploaded
+0411.992 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip: themes: This file has already been successfully uploaded
+0412.125 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-uploads.zip: uploads: This file has already been successfully uploaded
+0412.188 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-others.zip: others: This file has already been successfully uploaded
+0412.280 (0) backup_2024-03-25-0333_websiteblog_ad748c330cc3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0412.344 (0) Saving backup history. Total backup size: 57.1 MB
+0412.445 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0412.615 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0412.671 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-f73a97c1583779e98e3748cfb47f3d38)
+0412.703 (0) Google Drive: there appears to be more than one folder: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD, 19iit3RBDeNRWSzveO-Kk30MJmdWuoWlR
+0413.487 (0) Google Drive: quota usage: used=111.1 MB, total=15360 MB, available=15248.9 MB
+0413.526 (0) Google Drive: backup_2024-03-25-0333_websiteblog_ad748c330cc3-db.gz: Attempting to upload to Google Drive (into folder id: 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD)
+0416.471 (0) The time we have been running (416.3) is approaching the resumption interval (440) - increasing resumption interval to 447
+0416.560 (0) Googledrive chunked upload: 100 % uploaded
+0416.793 (0) Google Drive: OK: Archive backup_2024-03-25-0333_websiteblog_ad748c330cc3-db.gz uploaded in 3.21 seconds
+0416.814 (0) Recording as successfully uploaded: backup_2024-03-25-0333_websiteblog_ad748c330cc3-db.gz
+0416.860 (0) Deleting local file: backup_2024-03-25-0333_websiteblog_ad748c330cc3-db.gz: OK
+0416.903 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0416.930 (0) Number of backup sets in history: 3; groups (db): 1
+0416.959 (0) Examining (for databases) backup set with group_id=0, nonce=ad748c330cc3, datestamp=1711337630 (Mar 25 2024 03:33:50)
+0417.004 (0) This backup set is the backup set just made, so will not be deleted.
+0417.004 (0) Examining (for databases) backup set with group_id=0, nonce=167d474ba0cb, datestamp=1710731518 (Mar 18 2024 03:11:58)
+0417.004 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0417.025 (0) Examining (for databases) backup set with group_id=0, nonce=1957c9c95d6f, datestamp=1710263249 (Mar 12 2024 17:07:29)
+0417.026 (0) 1710263249: db: this set includes a database (backup_2024-03-12-1707_websiteblog_1957c9c95d6f-db.gz); db count is now 2
+0417.026 (0) 1710263249: db: over retain limit (2); will delete this database
+0417.027 (0) Delete file: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-db.gz, service=googledrive
+0417.049 (0) Deleting local copy (backup_2024-03-12-1707_websiteblog_1957c9c95d6f-db.gz)
+0419.938 (0) Google Drive: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-db.gz: Deletion failed: file was not found
+0420.082 (0) The time we have been running (420) is approaching the resumption interval (447) - increasing resumption interval to 450
+0420.148 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0420.170 (0) Number of backup sets in history: 3; groups (files): 1
+0420.193 (0) Examining (for files) backup set with nonce=ad748c330cc3, datestamp=1711337630 (Mar 25 2024 03:33:50)
+0420.193 (0) This backup set is the backup set just made, so will not be deleted.
+0420.214 (0) This backup set is the backup set just made, so will not be deleted.
+0420.215 (0) This backup set is the backup set just made, so will not be deleted.
+0420.215 (0) This backup set is the backup set just made, so will not be deleted.
+0420.215 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0420.237 (0) Examining (for files) backup set with nonce=167d474ba0cb, datestamp=1710731518 (Mar 18 2024 03:11:58)
+0420.238 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0420.238 (0) Examining (for files) backup set with nonce=1957c9c95d6f, datestamp=1710263249 (Mar 12 2024 17:07:29)
+0420.238 (0) plugins: over retain limit (2); will delete this file entity
+0420.238 (0) themes: over retain limit (2); will delete this file entity
+0420.238 (0) uploads: over retain limit (2); will delete this file entity
+0420.238 (0) others: over retain limit (2); will delete this file entity
+0420.239 (0) Delete file: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-plugins.zip, service=googledrive
+0420.259 (0) Deleting local copy (backup_2024-03-12-1707_websiteblog_1957c9c95d6f-plugins.zip)
+0420.284 (0) Delete file: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-themes.zip, service=googledrive
+0420.304 (0) Deleting local copy (backup_2024-03-12-1707_websiteblog_1957c9c95d6f-themes.zip)
+0420.329 (0) Delete file: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-uploads.zip, service=googledrive
+0420.348 (0) Deleting local copy (backup_2024-03-12-1707_websiteblog_1957c9c95d6f-uploads.zip)
+0420.373 (0) Delete file: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-others.zip, service=googledrive
+0420.415 (0) Deleting local copy (backup_2024-03-12-1707_websiteblog_1957c9c95d6f-others.zip)
+0421.181 (0) Google Drive: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-plugins.zip: Deletion failed: file was not found
+0421.248 (0) Google Drive: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-themes.zip: Deletion failed: file was not found
+0421.271 (0) Google Drive: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-uploads.zip: Deletion failed: file was not found
+0421.292 (0) Google Drive: backup_2024-03-12-1707_websiteblog_1957c9c95d6f-others.zip: Deletion failed: file was not found
+0421.404 (0) The time we have been running (421.3) is approaching the resumption interval (450) - increasing resumption interval to 452
+0421.449 (0) This backup set is now empty; will remove from history
+0421.493 (0) Deleting log file (log.1957c9c95d6f.txt)
+0421.516 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0422.440 (0) Google Drive: Moving: backup_2024-03-18-0311_websiteblog_167d474ba0cb-themes.zip (1IDfC_YNY_bIcYk8vlkvo73oqBZphaaux) from duplicate folder 19iit3RBDeNRWSzveO-Kk30MJmdWuoWlR to 1qX_c4oZH40-Uk_s-hO2fjNZ7HlXi6aKD
+0425.838 (0) Google Drive: removed empty duplicate folder (19iit3RBDeNRWSzveO-Kk30MJmdWuoWlR)
+0425.937 (0) Resume backup (ad748c330cc3, 0): finish run
+0426.005 (0) Decremented the semaphore (fd) by 1
+0426.127 (0) Semaphore (fd) unlocked
+0426.215 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0426.283 (0) Deleting zip manifest (backup_2024-03-25-0333_websiteblog_ad748c330cc3-plugins.zip.list.tmp)
+0426.306 (0) Deleting zip manifest (backup_2024-03-25-0333_websiteblog_ad748c330cc3-themes.zip.list.tmp)
+0426.329 (0) Deleting zip manifest (backup_2024-03-25-0333_websiteblog_ad748c330cc3-uploads.zip.list.tmp)
+0426.350 (0) Deleting zip manifest (backup_2024-03-25-0333_websiteblog_ad748c330cc3-others.zip.list.tmp)
+0426.372 (0) No email will/can be sent - the user has not configured an email address.
+0426.426 (0) The backup succeeded and is now complete
